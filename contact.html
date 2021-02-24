@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link rel="stylesheet" href="./assets/css/style.css">
+
+    <title>Contact GQ Disc Golf</title>
+
+    <!-- Adding a background image -->
+    <style>
+        body {
+            background-image: url('./assets/images/GQDG_BlackTexture.png');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+    </style>
+
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">GQ Disc Golf</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="index.html" title="Go to the Homepage">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="about.html" title="Go to the About page">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="#" title="Go to the Contact page">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="portfolio.html"
+                            title="Go to GQ Disc Golf's Portfolio">Portfolio</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container-fluid">
+        <div class="row">
+
+            <!-- Buffer for md & larger screens -->
+            <div class="extraSmall-screen col-md-2 col-xl-4"></div>
+
+            <!-- Contact form -->
+            <div class="col-xs-12 col-md-8 col-xl-4">
+                <div class="card">
+                    <div class="card-body formStyle">
+                        <form>
+                            <h2>Contact</h2>
+                            <label for="fname">First name:</label><br>
+                            <input type="text" id="fname" name="fname"><br>
+                            <label for="lname">Last name:</label><br>
+                            <input type="text" id="lname" name="lname"><br>
+
+                            <label for="email">Email:</label><br>
+                            <input type="email" id="email" name="email"><br>
+
+                            <label for="phone">Phone:</label><br>
+                            <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"><br>
+
+                            <label for="message">Message:</label><br>
+                            <input type="text" id="message" name="message"><br>
+                            <br>
+                            <input type="submit" value="Submit">
+
+                        </form>
+                        <p><br><br></p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Buffer for md & larger screens -->
+            <div class="extraSmall-screen col-md-2 col-xl-4"></div>
+        </div>
+        <p><br><br></p>
+    </div>
+
+    <!-- Footer with social links & copywrite -->
+    <footer class="footer footerStyle">
+        <p><br></p>
+        <p><a href="https://www.facebook.com/GQDiscGolf" target="_blank">
+                <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_facebook-256.png"
+                    alt="GQ Disc Golf on Facebook" width="50" height="50"></a>
+
+            <a href="https://twitter.com/GQDiscGolf" target="_blank">
+                <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/twitter_online_social_media-256.png"
+                    alt="GQ Disc Golf on Twitter" width="50" height="50"></a>
+
+            <a href="https://www.instagram.com/gqdiscgolf/" target="_blank">
+                <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media_photo-256.png"
+                    alt="GQ Disc Golf on Instagram" width="50" height="50"></a>
+
+            <a href="https://www.youtube.com/channel/UCqkadxtsQjzeYUiJxo17Gew" target="_blank">
+                <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/youtube_online_social_media_tube-256.png"
+                    alt="GQ Disc Golf on YouTube" width="50" height="50"></a>
+        </p>
+        <div>
+            <span class="text-muted">&copy; Copyright 2021 GQ Disc Golf</span>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
+        crossorigin="anonymous"></script>
+    <script src="./assets/js/script.js"></script>
+
+</body>
+
+</html>

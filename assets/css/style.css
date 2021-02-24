@@ -1,0 +1,103 @@
+/* This class sets the custom style for the footers on this website */
+.footerStyle {
+    text-align: center;
+    background-color: #FFD700;
+    vertical-align: bottom;
+    opacity:0.65;
+}
+
+/* This class sets the custom style for the forms on this website */
+.formStyle {
+    color: Black;
+    background-color: lightgray;
+    }
+
+/* These classes set the custom style for images */
+.card-img-top {
+    width: 90%;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+
+.aboutImage {
+    width: 90%;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+
+.logoImage {
+    width: 40%;
+    padding: 5%;
+    float: left;
+}
+
+.homePageImage {
+width: 35%;
+padding: 5%;
+float: left;
+}
+
+.homepageIcon {
+max-width: 300px;
+}
+
+/* These classes show or hide content based on the screen size together with the media queries below*/
+
+/* Only shows on xs & sm screens */
+.extraSmall-screen {
+    display: block;
+}
+
+/* Only shows on md or larger screens */
+.medium-screen {
+    display: none;
+}
+
+/* Only shows on lg or xl screens */
+.large-screen {
+    display: none;
+}
+
+/* Only hides on lg & xl screens */
+.hideLarge-screen {
+display: block;
+}
+
+/*Media Queries that utilize the classes built to show or hide content based on screen size */
+@media (min-width: 768px) { 
+    .medium-screen {
+        display: block;
+    }
+ }
+
+ @media (min-width: 992px) { 
+     .large-screen {
+         display: block;
+     }
+  }
+
+  @media (max-width: 768px) {
+      .extraSmall-screen {
+          display: none;
+      }
+  }
+
+  @media (min-width: 992px) {
+      .hideLarge-screen {
+          display: none;
+      }
+  }
+
+  @media (min-width: 992px) {
+      .aboutImage {
+        width: 40%;
+        padding: 5%;
+        float: left;
+      }
+  }
+
+  @media (max-width: 992px) {
+    .logoImage {
+        display: none;
+    }
+}
