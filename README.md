@@ -1,160 +1,65 @@
-# Portfolio
+# Gabe Quakkelaar's Portfolio
 Homework Assignment 08: Professional Materials
 
-# Unit 08 Project 1 Homework: Professional Materials
+DESCRIPTION
+This is my professional portfolio which includes my resume, personal experiences, and linked professional projects. 
 
-Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
+I refactored a previous project that I had created to be a multipaged website built on a mobile-first design. I still have not included the required code to enable the contact information collection, but I will continue to update this project. I utilized mainly HTML & CSS to create the webpages and am incorporating Javascript elements to increase the dynamic aspects of the webpages.
 
-If you are opting out of career services, this is _still a required assignment_. Part of being a web developer means being a part of a community. Having a place to share your projects is _necessary_ if you're applying for jobs, but it's also _critical_ on your journey as a developer.
 
-## Requirements
+To view my portfolio visit https://gquak.github.io/Portfolio/
 
-* Submit an updated portfolio featuring Project 1 and two exemplary homework assignments.
+About:
 
-* Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
+Contact:
 
-* Submit an updated resume
+Portfolio:
 
-* Submit an updated LinkedIn profile
 
-## Grading
+CREDITS
+This project was developed for use in the University of Denver's Coding Bootcamp by Gabe Quakkelaar.
 
-| Requirement      | Weight |
-| ---------------- | ------ |
-| Portfolio        | 40%    |
-| GitHub Profile   | 40%    |
-| Resume           | 10%    |
-| LinkedIn Profile | 10%    |
+Contact Information
+Gabe Quakkelaar
+https://github.com/GQuak
+(616) 420-1427
+gabe.quakkelaar@gmail.com
 
-## Instructions
 
-1. [Updated Portfolio](#updated-portfolio)
-2. [GitHub Profile](#updated-github-profile)
-3. [Updated Resume](#updated-resume)
-4. [Updated LinkedIn](#updated-linkedin)
+'Who Said It?' Collaborators
+Justin Westmoreland
+https://github.com/justinwestmoreland
 
-## Updated Portfolio
+Jenn Greiner
+https://github.com/jenngreiner
 
-💁 Need help updating your Portfolio? Check out the [Career Services milestone resources for online presence](hgit ).
+Florencia Ceballos
+https://github.com/FlorenciaC94
+MIT LICENSE
 
-Your updated portfolio should:
-- Update images:
-   *screenshots of linked projects/repos
-   *professional photos/fam photo?
--update links:
-   *all footer social links
-- update text:
-   -bio on homepage
-   -bio on about page
-   -project descriptions on portfolio page
 
-UPDATE CSS?
--img styling?
--moving background?
 
+Copyright (c) 2021 Gabe Quakkelaar
 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-1. Display your full name, email, and phone number
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-2. Have links to your GitHub profile and LinkedIn profile
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-3. Have a link to a downloadable PDF of your resume
 
-4. Display at least 2 examples of student work from either deployed projects or homeworks. For each project, make sure you have the following:
 
-    * Project title
 
-    * Link to the deployed version
 
-    * Link to the GitHub repository
-
-    * Screenshot of the deployed application
-
-5. Have a polished, mobile-responsive user interface.
-
-### Design
-
-Unfortunately, this is where it gets a little bit subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-
-* Mobile-first design
-
-* Choose a color palette for your site so it doesn't just look like
-  the default bootstrap theme or an unstyled HTML site.
-
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
-
-## Updated GitHub Profile
-
-Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
-
-Your GitHub profile must contain at least the following items:
-
-1. Professional profile picture
-
-   * A photo or an image other than the default Github identicon. (a semi-professional to professional photo or an avatar photo are preferred)
-
-2. Biography
-
-3. Your current location
-
-4. Email address
-
-5. Link to your deployed portfolio
-
-6. At least 2 pinned repositories:
-
-   * Navigate to [GitHub](https://github.com/) and go to your profile.
-
-   * Click "Customize your pins"
-
-   * Click the checkboxes for your project and 2-3 homework assignments that you would like to share
-
-7. Follow a few of your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code.
-
-8. README files. Every pinned project should contain a README file with:
-
-   * Title of app
-   * Live link to deployed app
-   * List of technologies used
-   * 1-2 sentences explaining what the app is
-   * 2-3 Screenshots / gifs of the app
-   * License (usually MIT)
-   * Contact information for you and any collaborators
-
-9. Commit history. Every pinned repository should have at least 20 commits.
-
-### 3. Updated Resume
-
-💁 Need help building a resume? Check out the [Career Services milestone resources](https://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-develop-your-resume).
-
-Submit a clear, concise, and compelling resume, tailored to the type of job you’re looking for.
-
-Your resume should include:
-
-* a heading with your name, phone number, professional email address, links to LinkedIn, portfolio and GitHub
-
-* a technical skills section, with all programming languages and technologies listed
-
-* 3 of your strongest projects/homework assignments with brief description, languages used, and URL
-
-### 4. Updated LinkedIn
-
-💁 Need help updating your LinkedIn? Check out the [Career Services milestone resources for online presence](https://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-polish-online-presence).
-
-Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
-
-### ⭐ 5. For Job-Seeking Students (BONUS)
-
-If you are a job-seeking student, then getting yourself marked as employer-ready is an important step to take because you'll get:
-
-* added to our employer referral list, where we'll help match you with employers for interviews
-
-* exclusive access to workshops for employer-ready students
-
-* a statistically higher success rate in your job search
-
-So if you're going to be looking for a job at the end of your boot camp, go ahead and submit these updated items to your Career Materials Advisor (formerly Profile Coach) via BootCampSpot.
-
----
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
