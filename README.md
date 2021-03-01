@@ -8,12 +8,13 @@ I refactored a previous project that I had created to be a multipaged website bu
 
 
 To view my portfolio visit https://gquak.github.io/Portfolio/
+![portfolioIndex](https://user-images.githubusercontent.com/75180482/109460157-67db5600-7a1d-11eb-982a-edaa497c4f92.png)
 
-About:
+About: ![portfolioAbout](https://user-images.githubusercontent.com/75180482/109460233-83def780-7a1d-11eb-8217-6893f8b48ce4.png)
 
-Contact:
+Contact: ![portfolioContact](https://user-images.githubusercontent.com/75180482/109460196-788bcc00-7a1d-11eb-99c8-3fdbfd16644e.png)
 
-Portfolio:
+Portfolio: ![portfolioPortfolio](https://user-images.githubusercontent.com/75180482/109460044-3f535c00-7a1d-11eb-96bc-616426d62dc8.png)
 
 
 CREDITS
